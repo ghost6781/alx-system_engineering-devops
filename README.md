@@ -1,4 +1,3 @@
-Shell basics:
 Task 0. Where am I? 
 Task 1. What’s in there?
 Task 2. There is no place like home.
@@ -19,6 +18,3 @@ Task 16. Clean Emacs
 Task 17. Tree
 Task 18. Life is a series of commas, not periods
 Task 19. File type: School
-
-Shell permissions:
-hello
