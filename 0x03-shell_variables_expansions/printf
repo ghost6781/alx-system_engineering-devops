@@ -1,0 +1,2 @@
+printf "%0.2f\n" $NUM
+ %0.2f\n
