@@ -1,0 +1,1 @@
+printf "%x\n" $DECIMAL script should display the number in base 16, followed by a new line
