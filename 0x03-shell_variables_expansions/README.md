@@ -64,3 +64,6 @@ WATER is in base water
 STIR is in base stir.
 The result should be in base bestchol
 
+Write a script that prints every other line from the input, starting with the first line.
+
+
